@@ -1,0 +1,1 @@
+实现了Promise的三种状态改变，支持串行异步任务，then、all、race、resolve、reject方法
